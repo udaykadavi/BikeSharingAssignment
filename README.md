@@ -1,5 +1,4 @@
 # BikeSharing Assignment
-> Outline a brief description of your project.
 
 
 ## Table of Contents
@@ -12,7 +11,7 @@
 
 ## General Information
 
-***Background & Data ***
+Background & Data:
 
 A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state.
 
@@ -47,12 +46,12 @@ You are required to model the demand for shared bikes with the available indepen
 - **mnth_10[Oct]:**         0.177703 (Positive effect)
 - **mnth_3[Mar]:**          0.170554 (Positive effect)
 
-
+Overall we can see that broadly, the factors that have an effect on bike sharing demand are weather & climate conditions, along with some seasonality factors like holiday and the year 2019
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-Python libraries used
+Python libraries used:
 - pandas
 - numpy
 - matplotlib
